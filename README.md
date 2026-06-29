@@ -62,3 +62,5 @@ pytest
 ## Autor
 
 Projeto desenvolvido para a disciplina de Engenharia de Software.
+
+Atualização da documentação do projeto.
