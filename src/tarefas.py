@@ -1,3 +1,4 @@
+# Classe responsável por representar uma tarefa dos sitema. 
 class Tarefa:
     def __init__(self, id, titulo, descricao, prioridade="Média"):
         self.id = id
