@@ -1,3 +1,4 @@
+# Arquivo principal responsável pela execução dos sistema.
 from gerenciador import Gerenciador
 
 gerenciador = Gerenciador()
