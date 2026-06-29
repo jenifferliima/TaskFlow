@@ -1,3 +1,4 @@
+# Classe responsável pelo gerenciamento das tarefas.
 from tarefas import Tarefa
 
 
