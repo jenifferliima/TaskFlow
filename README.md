@@ -66,3 +66,5 @@ Projeto desenvolvido para a disciplina de Engenharia de Software.
 Atualização da documentação do projeto.
 
 Documentação revisada em 28/06/2026
+
+Versão final da documentação revisada.
