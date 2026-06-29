@@ -70,3 +70,5 @@ Documentação revisada em 28/06/2026
 Versão final da documentação revisada.
 
 Foram realizados ajustes finais na documentação.
+
+Projeto Concluído e pronto para avaliação.
